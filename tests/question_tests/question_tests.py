@@ -2,7 +2,7 @@
 import unittest
 
 #follow this example to add questions b, c, and d for testing including their functions
-from src.question_a.question_a import test_config
+from question_a.bonus import test_config
 
 class Test_Config(unittest.TestCase):
 
